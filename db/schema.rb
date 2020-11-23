@@ -10,10 +10,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_11_23_202353) do
+ActiveRecord::Schema.define(version: 2020_11_23_210638) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "artist_from_works", force: :cascade do |t|
+    t.bigint "work_id", null: false
+    t.bigint "artist_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["artist_id"], name: "index_artist_from_works_on_artist_id"
+    t.index ["work_id"], name: "index_artist_from_works_on_work_id"
+  end
 
   create_table "artists", force: :cascade do |t|
     t.string "artist_id"
@@ -46,6 +55,15 @@ ActiveRecord::Schema.define(version: 2020_11_23_202353) do
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
   end
 
+  create_table "work_from_events", force: :cascade do |t|
+    t.bigint "event_id", null: false
+    t.bigint "work_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["event_id"], name: "index_work_from_events_on_event_id"
+    t.index ["work_id"], name: "index_work_from_events_on_work_id"
+  end
+
   create_table "works", force: :cascade do |t|
     t.string "work_id"
     t.string "title"
@@ -57,4 +75,8 @@ ActiveRecord::Schema.define(version: 2020_11_23_202353) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  add_foreign_key "artist_from_works", "artists"
+  add_foreign_key "artist_from_works", "works"
+  add_foreign_key "work_from_events", "events"
+  add_foreign_key "work_from_events", "works"
 end
