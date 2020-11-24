@@ -1,17 +1,19 @@
 class ArtistsController < ApplicationController
   skip_before_action :authenticate_user!, only: [ :index, :show ]
-  before_action :set_artist, only: [:show ]
+  before_action :set_artist, only: [ :show ]
+  before_action :set_event, only: [ :show, :index ]
   
   def index
     @artists = Artist.all
-    if params[:query].present?
-      @artists = Artist.where('event_id = ?', params[:query])
-    else
-      @artists = Artist.all
-    end 
+    #Artist.joins(:works).where(event: @event)
+    #@artists = Artist.joins(:work).where(event: @event)
+    #Artist.joins(:event).where(events: @event)
+    #Artist.where(event: @event)
+    #Artist.all.joins(:event).where('events.id = ?', params[:query])
   end
   
   def show
+    @work = Work.where(event: @event)
   end
   
   private
@@ -21,7 +23,7 @@ class ArtistsController < ApplicationController
   end
 
   def set_event
-    @event = Event.find(params[:id])
+    @event = Event.find(params[:event_id])
   end
-  
+
 end

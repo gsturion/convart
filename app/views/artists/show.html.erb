@@ -10,10 +10,26 @@
 <p>Nationality, year of birth / Country of residence, year of death</p>
 <p>Biography: link Encyclopedia ITAU</p>
 <p>List of works in that edition</p>
-
+<p><%= @event.edition %></p>
 <div class="mx-auto" style="width: 900px;">
   <div class="d-flex justify-content-center">
-    <p><%= @artist.works %></p>
+  <table>
+    <tbody>  
+    <% @work.each do |work| %>
+    <tr>
+      <td><%= work.title %></td>
+      <td><%= work.date %></td>
+      <td><%= work.size %></td>
+      <td><%= work.support %></td>
+      <td><%= work.technique %></td>
+      <% end %>
+    </tr>
+    </tbody>
+  </table>
   </div>
 </div>
+
 <p>Circulation</p>
+
+
+

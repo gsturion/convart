@@ -71,12 +71,18 @@ ActiveRecord::Schema.define(version: 2020_11_23_210638) do
     t.string "size"
     t.string "support"
     t.string "technique"
+    t.bigint "event_id", null: false
+    t.bigint "artist_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["artist_id"], name: "index_works_on_artist_id"
+    t.index ["event_id"], name: "index_works_on_event_id"
   end
 
   add_foreign_key "artist_from_works", "artists"
   add_foreign_key "artist_from_works", "works"
   add_foreign_key "work_from_events", "events"
   add_foreign_key "work_from_events", "works"
+  add_foreign_key "works", "artists"
+  add_foreign_key "works", "events"
 end

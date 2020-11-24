@@ -46,7 +46,7 @@ works = Rails.root.join('lib', 'seeds', 'Works.csv')
 csv_options = { headers: :first_row }
 CSV.foreach(works, csv_options) do |row|
   # Here, row is an array of columns
-  row['ID Evento'].split(';').each do |event_id|
+  #row['ID Evento'].split(';').each do |event_id|
     work = {
         work_id: row['ID Obra'],
         title: row['Título da Obra'],
@@ -55,10 +55,10 @@ CSV.foreach(works, csv_options) do |row|
         support: row['Suporte'],
         technique: row['Técnica'],
         #idno_evento: row['ID Evento'],
-        #artist: Artist.find_by(artist_id: row['Entity identifier']),
-        #event: Event.find_by(event_id: event_id)
+        artist: Artist.find_by(artist_id: row['ID Entidade']),
+        event: Event.find_by(event_id: row['ID Evento'])
       }
       print work
       Work.create!(work)
-  end
+  #end
 end
