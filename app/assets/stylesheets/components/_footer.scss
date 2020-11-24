@@ -4,7 +4,7 @@
   }
   
   .footer-links a {
-    color: black;
+    color: $ice;
     opacity: 0.15;
     text-decoration: none;
     font-size: 24px;
@@ -39,6 +39,6 @@
     /* Set the fixed height of the footer here */
     height: 60px;
     line-height: 60px; /* Vertically center the text there */
-    background-color: #F4F4F4;
-    color: rgba(110, 110, 110, 0.3);
+    background-color:#2B2B2B;
+    color:$ice;
   }
