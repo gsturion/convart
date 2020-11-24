@@ -1,0 +1,14 @@
+<h1>Events</h1>
+
+<table>
+  <tbody>
+    <% @events.each do |event| %>
+      <tr>
+        <td><%= link_to event.edition, event_path(event) %></td>
+        <td><%= event.place %></td>
+        <td><%= event.inicial_date %></td>
+        <td><%= event.final_date %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
