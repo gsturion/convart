@@ -13,7 +13,23 @@
 
 <div class="mx-auto" style="width: 900px;">
   <div class="d-flex justify-content-center">
-    <p><%= @artist.works %></p>
+  <table>
+    <tbody>  
+    <% @artist.works.each do |work| %>
+    <tr>
+      <td><%= work.title %></td>
+      <td><%= work.date %></td>
+      <td><%= work.size %></td>
+      <td><%= work.support %></td>
+      <td><%= work.technique %></td>
+      <% end %>
+    </tr>
+    </tbody>
+  </table>
   </div>
 </div>
+
 <p>Circulation</p>
+
+
+
