@@ -1,0 +1,15 @@
+<%= link_to "Back", events_path, class: "btn btn-light"%>
+
+<h1>Artists</h1>
+
+<table>
+  <tbody>
+    <% @artists.each do |artist| %>
+      <tr>
+        <td><%= artist.name %></td>
+        <td><%= artist.nationality %></td>
+        <td><%= artist.delegation %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

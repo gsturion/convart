@@ -1,0 +1,19 @@
+<%= link_to "Back", event_artists_path, class: "btn btn-light"%>
+
+
+<div class="mx-auto" style="width: 900px;">
+  <div class="d-flex justify-content-center">
+    <p><%= @artist.name %></p>
+  </div>
+</div>
+
+<p>Nationality, year of birth / Country of residence, year of death</p>
+<p>Biography: link Encyclopedia ITAU</p>
+<p>List of works in that edition</p>
+
+<div class="mx-auto" style="width: 900px;">
+  <div class="d-flex justify-content-center">
+    <p><%= @artist.works %></p>
+  </div>
+</div>
+<p>Circulation</p>

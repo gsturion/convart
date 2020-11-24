@@ -1,4 +1,4 @@
-<%= link_to "Voltar", events_path, class: "btn btn-light"%>
+<%= link_to "Back", events_path, class: "btn btn-light"%>
 
 
 <div class="mx-auto" style="width: 900px;">
@@ -15,7 +15,7 @@
 
 <li>Argentina</li>
 <li>Belgium</li>
-<li><%= link_to "Brazil", artists_path %></li>
+<li><%= link_to "Brazil", event_artists_path(@event) %></li>
 <li>Bolivia</li>
 <li>Canada</li>
 <li>Chile</li>

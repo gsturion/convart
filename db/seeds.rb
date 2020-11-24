@@ -55,8 +55,8 @@ CSV.foreach(works, csv_options) do |row|
         support: row['Suporte'],
         technique: row['Técnica'],
         #idno_evento: row['ID Evento'],
-        artist: Artist.find_by(artist_id: row['ID Entidade']),
-        event: Event.find_by(event_id: event_id)
+        #artist: Artist.find_by(artist_id: row['Entity identifier']),
+        #event: Event.find_by(event_id: event_id)
       }
       print work
       Work.create!(work)
