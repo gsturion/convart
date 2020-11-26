@@ -1,39 +1,11 @@
-<%= link_to "Back", root_path, class: "back-link"%>
-<div class="row justify-content-center ">
-  <h3>Biennals</h3>
-</div>
-  <li>Biennale de Venezia - Veneza, Itália</li>
-  <li>Carnegie International - Filadélfia, EUA</li>
-  <li>Triennale di Milano - Milão, Itália</li>
-  <li><%= link_to 'Bienal de São Paulo - São Paulo, Brasil', events_path %></li>
-  <li>Tokyo Biennale - Tóquio, Japão</li>
-  <li>Documenta - Kassel, Alemanha</li>
-  <li>Ljubljana Biennial of Graphic Arts - Ljubljana, Eslovênia</li>
-  <li>Biennale de la Méditerranée - Alexandria, Egito</li>
-  <li>Biennale de Paris - Paris, França</li>
-  <li>Bienal Americana de Córdoba - Córdoba, Argentina</li>
-  <li>Bienal Coltejer - Medellín, Colômbia</li>
-  <li>Bienales del Grabado Latinoamericano - San Juan, Porto Rico</li>
-  <li>Triennale-India - Nova Delhi, Índia</li>
-  <li>Biennale of Sydney -Sydney, Austrália</li>
-  <li>Bienal de La Habana - Havana, Cuba</li>
-  <li>Johannesburg Biennale - Joanesburgo, África do Sul</li>
-  <li>Shanghai Biennale - Xangai, China</li>
-  <li>Bienal do Mercosul - Porto Alegre, Brasil</li>
-  <li>Dak'Art Dakar Biennale - Dacar, Senegal</li>
-  <li>Manifesta - Amsterdã, Países Baixos</li>
-  <li>Bienal del Fin del Mundo - Ushuaia, Argentina</li>
-  <li>Gwangju Biennale - Gwangju, Coréia do Sul</li>
-  <li>Bienal de Curitiba - Curitiba, Brasil</li>
-  <li>Biennale de Lyon - Lyon, França</li>
-  <li>Liverpool Biennial - Liverpool, Reino Unido</li>
-  <li>Berlin Biennale - Berlim, Alemanha</li>
-  <li>Moscow Biennale of Contemporary Art - Moscou, Rússia</li>
-  <li>Marrakech Biennale - Marraquexe, Marrocos</li>
-  <li>Bienal de Arte de Cerveira - Viana do Castelo, Portugal</li>
-  <li>Singapore Biennale - Singapura, Singapura</li>
-  <li>Kochi-Muziris Biennale - Kochi, Índia</li>
-  <li>Prospect - Nova Orleans, EUA</li>
-  <li>Sharjah Biennial - Sharjah, Emirados Árabes Unidos</li>
-  <li>Taipei Biennial - Taipei, Taiwan</li>
+<div id="bienais" >
+
+  <h1>Bienais</h1>
+  <a href="/"> Voltar para a página inicial </a>
+  <div id="map"></div>
+
+
+  <!-- <script type="text/javascript" src="../js/listBienaisOfMap.js" ></script> -->
+  <%= javascript_pack_tag 'listMap', 'data-turbolinks-track': 'reload', defer: true %>
+
 </div>

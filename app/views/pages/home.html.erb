@@ -1,107 +1,29 @@
-<h1> </h1>
-<br><br><br><br><br><br><br><br>
-<div class="row justify-content-center ">
-  <%= link_to "Biennials", pages_map_path, class: "btn btn-ghost" %>
-  <%= link_to "Exhibitions", "#", class: "btn btn-ghost" %>
-  <%= link_to "Halls", "#", class: "btn btn-ghost" %>
-  <%= link_to "Events", "#", class: "btn btn-ghost" %>
-  <%= link_to "Fairs", "#", class: "btn btn-ghost" %>
-</div>
-<br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div id="home" >
 
+  <main class="wrapper" >  
+    
+    <header>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/">Sobre</a>
+        <a href="/">Contato</a>
+      </nav>
+      <img src="<%= asset_path( 'logo.png' ) %>" />
+    </header>
 
-
-<div class="container d-flex justify-content-center pt-5 mb-5">
-  <div class="col-10">
-    <h3 class="text-justify"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut justo suscipit, gravida velit in, dictum ante. Etiam eleifend sapien sed lacus tincidunt faucibus. Fusce efficitur at nunc vitae commodo. Maecenas luctus dignissim mattis. Maecenas vitae nisi cursus, tristique magna sed, lacinia nisi. Quisque non nunc dictum, volutpat nisl vel, efficitur urna. Phasellus vel maximus urna. Proin vehicula lectus libero. <h3>
-  </div>
-</div>
-
-<div class="container d-flex justify-content-around pt-5 mb-5">
-  <div class="col-10">
-    <div class="cards pt-3 mb-"3>
-      <div class="card-trip">
-        <i class="far fa-comments"></i>
-        <div class="card-trip-infos">
-          <div>
-            <h2>Title here</h2>
-            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut justo suscipit, gravida velit in, dictum ante. Etiam eleifend sapien sed lacus tincidunt faucibus</p>
-          </div>
-
-
-        </div>
-      </div>
-
-
-      <div class="card-trip">
-        <i class="far fa-address-card"></i>
-        <div class="card-trip-infos">
-          <div>
-            <h2>Title here</h2>
-            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut justo suscipit, gravida velit in, dictum ante. Etiam eleifend sapien sed lacus tincidunt faucibus</p>
-          </div>
-
-
-        </div>
-      </div>
-
-      <div class="card-trip">
-        <i class="fas fa-mobile-alt"></i>
-        <div class="card-trip-infos">
-          <div>
-            <h2>Title here</h2>
-            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut justo suscipit, gravida velit in, dictum ante. Etiam eleifend sapien sed lacus tincidunt faucibus</p>
-          </div>
-
-
-        </div>
-      </div>
-
+    <nav>
+      <a href="map"> Bienais </a>
+      <a href=""> Exposições </a>
+      <a href=""> Salões </a>
+      <a href=""> Eventos </a>
+      <a href=""> Feiras </a>
+    </nav>
+    
+    <div class="buttonsOutSide" >
+      <a href=""> Quero convergir </a>
+      <a href="" id="moveDowm" > <img src="https://img.icons8.com/fluent-systems-regular/2x/low-importance.png"/> </a>
+      <a href=""> Quero conversas </a>
     </div>
-  </div>
-</div>
+  </main>
 
-<div class="blackbox">
-  <div  class="container pt-5">
-  <div class="row justify-content-center">
-    <div class="col-xs-12 col-sm-4 whitebox">
-      <form class="text-center border border-light p-5" action="#!">
-
-          <p class="h4 mb-4">Contact us</p>
-
-          <!-- Name -->
-          <input type="text" id="defaultContactFormName" class="form-control mb-4" placeholder="Name">
-
-          <!-- Email -->
-          <input type="email" id="defaultContactFormEmail" class="form-control mb-4" placeholder="E-mail">
-
-          <!-- Subject -->
-          <label>Subject</label>
-          <select class="browser-default custom-select mb-4">
-              <option value="" disabled>Choose option</option>
-              <option value="1" selected>Feedback</option>
-              <option value="2">Report a bug</option>
-              <option value="3">Feature request</option>
-              <option value="4">Feature request</option>
-          </select>
-
-          <!-- Message -->
-          <div class="form-group">
-              <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="Message"></textarea>
-          </div>
-
-          <!-- Copy -->
-          <div class="custom-control custom-checkbox mb-4">
-              <input type="checkbox" class="custom-control-input" id="defaultContactFormCopy">
-              <label class="custom-control-label" for="defaultContactFormCopy">Send me a copy of this message</label>
-          </div>
-
-          <!-- Send button -->
-          <button class="btn btn-info btn-block" type="submit">Send</button>
-
-      </form>
-    </div>
-  </div>
-  </div>
 </div>

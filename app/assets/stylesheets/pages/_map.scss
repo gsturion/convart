@@ -1,0 +1,30 @@
+#bienais {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+
+	position: relative;
+
+	min-height: 100vh;
+
+	background: #536976;
+	background: -webkit-linear-gradient(to right, #292E49, #536976);
+	background: linear-gradient(to right, #292E49, #536976);
+
+}
+
+#bienais > h1,
+#bienais > a {
+	margin-top: .5em;
+
+	color: white;
+}
+
+#bienais > #map {
+	position: absolute;
+
+	bottom: 1%;
+
+	width: 95%;
+	height: 85%;
+}
