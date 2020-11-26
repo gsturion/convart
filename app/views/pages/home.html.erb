@@ -27,3 +27,36 @@
   </main>
 
 </div>
+
+<!-- other section with 100vh -->
+<div id="about"></div>
+
+<!-- other section with 100vh -->
+<div id="contactUs"></div>
+
+<!-- other section with 100vh -->
+<div id="login">
+  <div class="header">
+    <img src="<%= asset_path( 'logo.png' ) %>" />
+    <a href="/">Login</a>
+  </div>
+  <form action="/">
+    <h1>Cadastro</h1>
+    <div class="inputBlock">
+      <label for="fullName">Nome Completo</label>
+      <input placeholder="Reginaldo da Cruz" type="text" name="fullName" id="fullName" />
+    </div>
+
+    <div class="inputBlock">
+      <label for="email">Email</label>
+      <input placeholder="email@dominio.com" type="email" name="email" id="email" />
+    </div>
+
+    <div class="inputBlock">
+      <label for="pass">Senha</label>
+      <input placeholder="**********" type="password" name="pass" id="pass" />
+    </div>
+
+    <button>Começar</button>
+  </form>
+</div>

@@ -94,3 +94,104 @@
 	100% { padding-top: 1.3em; }
 	0% { padding-top: -2em; }
 }
+
+#login {
+	min-height: 100vh;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	background: #536976;
+	background: -webkit-linear-gradient(to right, #292E49, #536976);
+	background: linear-gradient(to right, #292E49, #536976);
+
+	position: relative;
+
+	.header {
+		position: absolute;
+
+		top: 0%;
+
+		width: 100%;
+
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+
+		padding: 1em 2em;
+
+		border-bottom: .1em solid white;
+
+		img { width: 10em }
+
+		a {
+			background-color: transparent;
+			border: .1em solid white;
+
+			color: white;
+
+			padding: .7em 1.4em;
+
+			border-radius: 1em;
+		}
+	}
+
+	form {
+
+		h1 {color: white}
+
+		button {
+			background-color: transparent;
+			border: .1em solid white;
+
+			color: white;
+
+			padding: .7em 1.4em;
+
+			border-radius: 1em;
+
+			margin: 1em 0;
+
+			text-transform: uppercase;
+		}
+
+		.inputBlock {
+			display: flex;
+			flex-direction: column;
+
+			font-size: 1.3em;
+
+			label {
+				color: white;
+
+				margin-top: 1.5em;
+				margin-bottom: .5em;
+			}
+			input {
+				color: white;
+
+				font-size: 1em;
+
+				background-color: transparent;
+				border: none;
+				outline: none;
+
+				padding-bottom: .25em;
+
+				border-bottom: .1em solid transparent;
+
+				transition: .4s all;
+
+				&:focus {
+					border-bottom: .1em solid white;
+				}
+
+				&:selected {
+					background-color: transparent;
+				}
+			}
+		}
+	}
+}
