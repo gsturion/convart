@@ -1,7 +1,7 @@
 const bienais = [
   {
     name: "Biennale de Venezia - Veneza, Itália",
-    coordinates: [12.358113, 45.429239],
+    coordinates: [12.3360451,45.4288342],
   },
   {
     name: "Carnegie International - Filadélfia, EUA",
@@ -139,6 +139,6 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 }).addTo(map);
 
 bienais.forEach((b) => {
-  L.marker(b.coordinates).addTo(map).bindPopup(b.name).openPopup();
+  L.marker([b.coordinates[1], b.coordinates[0]]).addTo(map).bindPopup(b.name).openPopup();
   return b;
 });
