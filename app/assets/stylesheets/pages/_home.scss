@@ -39,6 +39,14 @@
 	justify-content: center;
 
 	border: .1em solid;border-radius: 2em;
+
+	transition: .4s all;
+
+	&:hover {
+		background-color: rgba(83, 105, 118, .3);
+
+		color: white;
+	}
 }
 
 #home .buttonsOutSide {
@@ -83,16 +91,15 @@
 }
 
 #home .buttonsOutSide > a > img {
-	animation: skiping 1s both 3;
-
-	padding-top: -2em;
+	animation: skiping 2s both infinite;
 
 	width: 50%;
 } 
 
 @keyframes skiping {
-	100% { padding-top: 1.3em; }
-	0% { padding-top: -2em; }
+	0% { padding-top: -1.3em; }
+	50% { padding-top: 1.3em; }
+	100% { padding-top: -1.3em; }
 }
 
 #login {
@@ -204,6 +211,8 @@
 
 	min-height: 100vh;
 
+	border-bottom: .1em solid white;
+
 	background: #536976;
 	background: -webkit-linear-gradient(to right, #292E49, #536976);
 	background: linear-gradient(to right, #292E49, #536976);
@@ -224,8 +233,6 @@
 
 			margin: 1em;
 
-			width: 15em;
-
 			display: flex;
 			flex-direction: column;
 			align-items: center;
@@ -234,7 +241,7 @@
 		}
 
 		img {
-			width: 10em;height: 10em;
+			width: 7em;height: 7em;
 
 			margin: 1em 0;
 
