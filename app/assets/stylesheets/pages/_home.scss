@@ -195,3 +195,47 @@
 		}
 	}
 }
+
+#about {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	min-height: 100vh;
+
+	background: #536976;
+	background: -webkit-linear-gradient(to right, #292E49, #536976);
+	background: linear-gradient(to right, #292E49, #536976);
+
+	color: white;
+
+	.authors {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+
+		div {
+
+			margin: 1em;
+
+			width: 15em;
+
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			align-content: center;
+		}
+
+		img {
+			width: 10em;height: 10em;
+
+			margin: 1em 0;
+
+			border-radius: 10em;
+		}
+	}
+
+}
