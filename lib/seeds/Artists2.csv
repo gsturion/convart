@@ -1,0 +1,619 @@
+Entity identifier,Entity names,nacionalidade,participação,idno-evento
+ent_joaquimcardozo,Joaquim Cardozo,Brasil (Nacionalidade),-,ev_0935
+ent_lasarsegall,Lasar Segall,Rússia (Nacionalidade),Convidado,ev_0935
+ent_candidoportinari,Cândido Portinari,Brasil (Nacionalidade),Convidado,ev_0935
+ent_willibaumeister,Willi Baumeister,Alemanha (Nacionalidade),Homenageado,ev_1512
+ent_hansuhlmann,Hans Uhlmann,Alemanha (Nacionalidade),Homenageado,ev_1512
+ent_marcelgromaire,Marcel Gromaire,França (Nacionalidade),Hors Concours,ev_0935
+ent_afrobasaldella,Afro Basaldella,Itália (Nacionalidade),Inscrição Espontânea,ev_0935
+ent_wotywerner,Woty Werner,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_willibaumeister,Willi Baumeister,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_wernergilles,Werner Gilles,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_theodorwerner,Theodor Werner,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_karlschmidt-rottluff,Karl Schmidt-Rottluff,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_karlschmidt-rottluff,Karl Schmidt-Rottluff,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_1022
+ent_karlknappe,Karl Knappe,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_karlhartung,Karl Hartung,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_karlhartung,Karl Hartung,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_1022
+ent_johannaschutz-wolff,Johanna Schütz-Wolff,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_heinzbattkel,Heinz Battkel,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_hapgrieshaber,Hap Grieshaber,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_hansuhlmann,Hans Uhlmann,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_gerhardmarcks,Gerhard Marcks,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_gerhardmarcks,Gerhard Marcks,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0997
+ent_georgmeistermann,Georg Meistermann,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_fritzwinter,Fritz Winter,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_fritzwinter,Fritz Winter,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0983
+ent_fritzwinter,Fritz Winter,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0997
+ent_ewaldmatare,Ewald Mataré,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_ernstwilhelmnay,Ernst Wilhelm Nay,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_ernstwilhelmnay,Ernst Wilhelm Nay,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0983
+ent_ernstwilhelmnay,Ernst Wilhelm Nay,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_1022
+ent_ernstbarlach,Ernst Barlach,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_alexandercamaro,Alexander Camaro,Alemanha (Nacionalidade),Representação Nacional > Alemanha,ev_0935
+ent_brunovernier,Bruno Vernier,Itália (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_germainederbecq,Germaine Derbecq,França (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_germainederbecq,Germaine Derbecq,França (Nacionalidade),Representação Nacional > Argentina,ev_0954
+ent_bernardbouts,Bernard Bouts,França (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_joseantoniofer,José Antonio Fernández-Muro,Espanha (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_joseantoniofer,José Antonio Fernández-Muro,Espanha (Nacionalidade),Representação Nacional > Argentina,ev_0954
+ent_joseantoniofer,José Antonio Fernández-Muro,Espanha (Nacionalidade),Representação Nacional > Argentina,ev_1052
+ent_raulsoldi,Raúl Soldi,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_raulsoldi,Raúl Soldi,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0997
+ent_pablocuratellamanes,Pablo Curatella Manes,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_pablocuratellamanes,Pablo Curatella Manes,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0954
+ent_pablocuratellamanes,Pablo Curatella Manes,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0997
+ent_pablocuratellamanes,Pablo Curatella Manes,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_1387
+ent_orlandopierri,Orlando Pierri,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_orlandopierri,Orlando Pierri,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0954
+ent_orlandopierri,Orlando Pierri,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0997
+ent_migueldiomede,Miguel Diomede,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_migueldiomede,Miguel Diomede,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0997
+ent_juanotano,Juan Otano,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_juanotano,Juan Otano,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0954
+ent_juancarloscast,Juan Carlos Castagnino,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_juancarloscast,Juan Carlos Castagnino,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_1127
+ent_horaciobutler,Horacio Butler,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_horaciobutler,Horacio Butler,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0997
+ent_horaciobutler,Horacio Butler,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_1022
+ent_hectorbasaldua,Hector Basaldua,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_hectorbasaldua,Hector Basaldua,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0997
+ent_hectorbasaldua,Hector Basaldua,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_1052
+ent_carlostorrallardona,Carlos Torrallardona,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_carlostorrallardona,Carlos Torrallardona,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0997
+ent_armandosica,Armando Sica,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_antonioberni,Antonio Berni,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_alfredobigatti,Alfredo Bigatti,Argentina (Nacionalidade),Representação Nacional > Argentina,ev_0935
+ent_hansaebi,Hans Aebi,Suíça (Nacionalidade),Representação Nacional > Argentina ,ev_0935
+ent_pierreberroeta,Pierre de Berroeta,França (Nacionalidade),Representação Nacional > Argentina ,ev_0935
+ent_vilmadustir,Vilma Dustir,Argentina (Nacionalidade),Representação Nacional > Argentina ,ev_0935
+ent_vicenteforte,Vicente Forte,Argentina (Nacionalidade),Representação Nacional > Argentina ,ev_0935
+ent_manuelteijeiro,Manuel F. Teijeiro,Argentina (Nacionalidade),Representação Nacional > Argentina ,ev_0935
+ent_luismoreno,Luis Gowland Moreno,Argentina (Nacionalidade),Representação Nacional > Argentina ,ev_0935
+ent_juanballesterpena,Juan Ballester Peña,Argentina (Nacionalidade),Representação Nacional > Argentina ,ev_0935
+ent_homeropanagiotopoulo,Homero Panagiotopoulos,Argentina (Nacionalidade),Representação Nacional > Argentina ,ev_0935
+ent_fernadezreyes,Fernandez de los Reyes,Argentina (Nacionalidade),Representação Nacional > Argentina ,ev_0935
+ent_enricograss,Enrico Grass,Argentina (Nacionalidade),Representação Nacional > Argentina ,ev_0935
+ent_carlosgonzalez,Carlos Garcia Gonzalez,Argentina (Nacionalidade),Representação Nacional > Argentina ,ev_0935
+ent_wilhelmburger,Wilhelm Burger,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_waltereckert,Walter Eckert,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_stephanpraschl,Stephan Praschl,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_sergiuspauser,Sergius Pauser,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_rudolfholzinger,Rudolf Holzinger,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_robertmarkowitsch,Robert Markowitsch,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_paulflora,Paul Flora,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_oskarschmal,Oskar Schmal,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_oskarmatulla,Oskar Matulla,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_oskargawell,Oskar Gawell,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_maxfrev,Max Frev,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_loispregartbauer,Lois Pregartbauer,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_karlgunsam,Karl Gunsam,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_karlbednarik,Karl Bednarik,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_josefdobrowsky,Josef Dobrowsky,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_johanneswanke,Johannes Wanke,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_johanneskrejci,Johannes Krejci,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_hermineaichenegg,Hermine Aichenegg,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_herbertpass,Herbert Pass,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_hansboehler,Hans Boehler,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_gerhardswoboda,Gerhard Swoboda,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_franzzulow,Franz Zulow,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_ferdinandkitt,Ferdinand Kitt,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_etichmiller-hauenfel,Etich Miller-Hauenfels,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_ernsthuber,Ernst Huber,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_erichuber,Eric Huber,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_elfriedeskorpil,Elfriede Skorpil,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_carryhauser,Carry Hauser,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_bartholomausstefferl,Bartholomäus Stefferl,Áustria (Nacionalidade),Representação Nacional > Áustria,ev_0935
+ent_arnulfneuwirth,Arnulf Neuwirth,Áustria (Nacionalidade),Representação Nacional > Áustria ,ev_0935
+ent_oscarjespers,Oscar Jespers,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0935
+ent_oscarjespers,Oscar Jespers,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0983
+ent_jozefcantre,Jozef Cantre,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0935
+ent_jozefcantre,Jozef Cantre,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0983
+ent_jeanbrusselmans,Jean Brusselmans,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0935
+ent_jeanbrusselmans,Jean Brusselmans,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0983
+ent_edgardtytgat,Edgard Tytgat,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0935
+ent_edgarscauflaire,Edgar Scauflaire,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0935
+ent_constantpermeke,Constant Permeke,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0935
+ent_constantpermeke,Constant Permeke,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0983
+ent_carlesleplae,Carles Leplae,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0935
+ent_antoonmarstboom,Antoon Marstboom,Bélgica (Nacionalidade),Representação Nacional > Bélgica,ev_0935
+ent_willempaerels,Willem Paerels,Bélgica (Nacionalidade),Representação Nacional > Bélgica ,ev_0935
+ent_rikslabbinck,Rik Slabbinck,Bélgica (Nacionalidade),Representação Nacional > Bélgica ,ev_0935
+ent_markseverin,Mark Severin,Bélgica (Nacionalidade),Representação Nacional > Bélgica ,ev_0935
+ent_josephzabeau,Joseph Zabeau,Bélgica (Nacionalidade),Representação Nacional > Bélgica ,ev_0935
+ent_josephvinck,Joseph Vinck,Bélgica (Nacionalidade),Representação Nacional > Bélgica ,ev_0935
+ent_janvaerten,Jan Vaerten,Bélgica (Nacionalidade),Representação Nacional > Bélgica ,ev_0935
+ent_jacquesmaes,Jacques Maes,Bélgica (Nacionalidade),Representação Nacional > Bélgica ,ev_0935
+ent_henrystork,Henry Stork,Bélgica (Nacionalidade),Representação Nacional > Bélgica ,ev_0935
+ent_henriwolvens,Henri Wolvens,Bélgica (Nacionalidade),Representação Nacional > Bélgica ,ev_0935
+ent_georgesgrard,Georges Grard,Bélgica (Nacionalidade),Representação Nacional > Bélgica ,ev_0935
+ent_fransmasereel,Frans Masereel,Bélgica (Nacionalidade),Representação Nacional > Bélgica ,ev_0935
+ent_hugoalmaraz,Hugo Almaraz,Bolívia (Nacionalidade),Representação Nacional > Bolívia,ev_0935
+ent_limabarreto,Lima Barreto,Brasil (Nacionalidade),Representação Nacional > Brasil ,ev_0935
+ent_williamgoodridger,William Goodridge Roberts,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_williamgoodridger,William Goodridge Roberts,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0954
+ent_williamabernethog,William Abernathy Ogilvie,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_williamabernethog,William Abernathy Ogilvie,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0954
+ent_stanleymorelcosgr,Stanley Morel Cosgrove,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_pierredelignybo,Pierre de Ligny Boudreau,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_paraskevaclark,Paraskeva Clark,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_mollylambbobak,Molly Lamb Bobak,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_mollylambbobak,Molly Lamb Bobak,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0954
+ent_mariandalescott,Marian Dale Scott,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_mariandalescott,Marian Dale Scott,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0954
+ent_lionellemoinefit,Lionel Lemoine FitzGerald,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_lillianfreiman,Lillian Freiman,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_leonbellefleur,Léon Bellefleur,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_leonbellefleur,Léon Bellefleur,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0954
+ent_jacquesdetonnancour,Jacques de Tonnancour,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_henrimasson,Henri Masson,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_fritzbrandtner,Fritz Brandtner,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_fritzbrandtner,Fritz Brandtner,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0954
+ent_davidmilne,David Milne,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_davidmilne,David Milne,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0954
+ent_carlfellmanschaefer,Carl Fellman Schaefer,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_bertramcharlesbin,Bertram Charles Binning,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_arthurlismer,Arthur Lismer,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_alexanderyoungjacks,Alexander Young Jackson,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_albertdumouchel,Albert Dumouchel,Canadá (Nacionalidade),Representação Nacional > Canadá,ev_0935
+ent_waldovila,Waldo Vila,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_victorcarvachoh,Victor Carvacho H.,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_sergiomontecino,Sergio Montecino,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_sergiomontecino,Sergio Montecino,Chile (Nacionalidade),Representação Nacional > Chile,ev_0954
+ent_reinaldovillasenor,Reinaldo Villaseñor,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_reinaldovillasenor,Reinaldo Villaseñor,Chile (Nacionalidade),Representação Nacional > Chile,ev_0954
+ent_raulsantelices,Raul Santelices,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_raulsantelices,Raul Santelices,Chile (Nacionalidade),Representação Nacional > Chile,ev_0954
+ent_pabloburcharda,Pablo Burchard A.,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_mireyalafuente,Mireya Lafuente,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_marioalvarezj,Mario Alvarez J.,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_luistorterolo,Luis Torterolo,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_julioantoniovasquez,Julio Antonio Vasquez,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_joseperottironzzoni,José Perotti Ronzzoni,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_ivanlamberg,Ivan Lamberg,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_ivanlamberg,Ivan Lamberg,Chile (Nacionalidade),Representação Nacional > Chile,ev_0954
+ent_israelroa,Israel Roa,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_israelroa,Israel Roa,Chile (Nacionalidade),Representação Nacional > Chile,ev_0954
+ent_hebertalfaro,Hebert Alfaro,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_greodelafuenr,Gregorio De la Fuente R.,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_gabrielagarfiasp,Gabriela Garfias P.,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_franciscoparada,Francisco Parada,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_carlospedrazao,Carlos Pedraza O.,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_camilomori,Camilo Mori,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_bertaherrera,Berta Herrera,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_augustoeguiluzd,Augusto Eguiluz D.,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_arturovalenzuela,Arturo Valenzuela,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_arturomedwards,Arturo M. Edwards,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_anacortesj,Ana Cortes J.,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_alfredoaliagas,Alfredo Aliaga S.,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_aidadelsolar,Aída del Solar,Chile (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_franciscootta,Francisco Otta,Áustria-Hungria (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_franciscootta,Francisco Otta,Áustria-Hungria (Nacionalidade),Representação Nacional > Chile,ev_0954
+ent_lilosalberg,Lilo Salberg,Alemanha (Nacionalidade),Representação Nacional > Chile,ev_0935
+ent_ameliapelaez,Amelia Peláez,Cuba (Nacionalidade),Representação Nacional > Cuba,ev_0935
+ent_fritzglarner,Fritz Glarner,Suíça (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_williamzorach,William Zorach,Rússia (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_saulbaizerman,Saul Baizerman,Rússia (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_peterblume,Peter Blume,Rússia (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_paveltchelitchew,Pavel Tchelitchew,Rússia (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_minnaharkavy,Minna Harkavy,Rússia (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_maxweber,Max Weber,Rússia (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_maxkahn,Max Kahn,Rússia (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_benshahn,Ben Shahn,Rússia (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_yasuokuniyoshi,Yasuo Kuniyoshi,Japão (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_oronziomaldarelli,Oronzio Maldarelli,Itália (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_reginaldmarsh,Reginald Marsh,França (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_suefuller,Sue Fuller,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_stuartdavis,Stuart Davis,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_robertgwathmey,Robert Gwathmey,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_richardlippold,Richard Lippold,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_philipevergood,Philip Evergood,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_markrothko,Mark Rothko,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_louisschanker,Louis Schanker,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_lorenmaciver,Loren MacIver,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_johnmarin,John Marin,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_jacoblawrence,Jacob Lawrence,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_jacklevine,Jack Levine,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_ivanlelorrain,Ivan Le Lorraine Albright,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_isamunoguchi,Isamu Noguchi,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_irenericepereira,Irene Rice Pereira,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_hugorobus,Hugo Robus,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_herbertferber,Herbert Ferber,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_georgiaokeefe,Georgia O'Keefe,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_charlessheeler,Charles Sheeler,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_charlesburchfield,Charles Burchfield,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_bradleywalkertomlin,Bradley Walker Tomlin,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_arminlandeck,Armin Landeck,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_altonpickens,Alton Pickens,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_adolfdehn,Adolf Dehn,Estados Unidos (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_josedecreeft,José de Creeft,Espanha (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_federicocastellon,Federico Castellon,Espanha (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_chaimgross,Chaim Gross,Áustria (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_georgegrosz,George Grosz,Alemanha (Nacionalidade),Representação Nacional > Estados Unidos,ev_0935
+ent_borismargo,Boris Margo,Rússia (Nacionalidade),Representação Nacional > Estados Unidos ,ev_0935
+ent_yvettealde,Yvette Alde,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_shedlin,Shedlin,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_seraphinelouise,Séraphine Louis,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_rogerbezombes,Roger Bezombes,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_maximeadam-tessier,Maxime Adam-Tessier,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_marie-theresepinto,Marie-Thérèse Pinto,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_julescavailles,Jules Cavailles,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_jeanhelion,Jean Helion,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_hubertyencesse,Hubert Yencesse,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_henrijannot,Henri Jannot,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_francismontanier,Francis Montanier,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_eugenedekermadec,Eugène de Kermadec,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_andredunoyerdesegon,Dunoyer de Segonzac,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_andreplanson,André Planson,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_andreminaux,André Minaux,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_andremasson,André Masson,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_andremarchand,André Marchand,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_andrecivet,André Civet,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_andrebeaudin,André Beaudin,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_albertogiacometti,Alberto Giacometti,França (Nacionalidade),Representação Nacional > França,ev_0935
+ent_josephlacasse,Joseph Lacasse,Bélgica (Nacionalidade),Representação Nacional > França,ev_0935
+ent_bernardlorjou,Bernard Lorjou,França (Nacionalidade),"Representação Nacional > França
+  ",ev_0935
+ent_maxpinchinat,Max Pinchinat,Haiti (Nacionalidade),Representação Nacional > Haiti,ev_0935
+ent_lucknerlazard,Luckner Lazard,Haiti (Nacionalidade),Representação Nacional > Haiti,ev_0935
+ent_lucienprice,Lucien Price,Haiti (Nacionalidade),Representação Nacional > Haiti,ev_0935
+ent_josepheustache,Joseph Eustache,Haiti (Nacionalidade),Representação Nacional > Haiti,ev_0935
+ent_gabrielleveque,Gabriel Levèque,Haiti (Nacionalidade),Representação Nacional > Haiti,ev_0935
+ent_denisemile,Dènis Èmile,Haiti (Nacionalidade),Representação Nacional > Haiti,ev_0935
+ent_alexandrejeanty,Alexandre Jeanty,Haiti (Nacionalidade),Representação Nacional > Haiti,ev_0935
+ent_pietwiegman,Piet Wiegman,Holanda (Nacionalidade),Representação Nacional > Holanda,ev_0935
+ent_matthieuwiegman,Matthieu Wiegman,Holanda (Nacionalidade),Representação Nacional > Holanda,ev_0935
+ent_keesverwey,Kees Verwey,Holanda (Nacionalidade),Representação Nacional > Holanda,ev_0935
+ent_janwiegers,Jan Wiegers,Holanda (Nacionalidade),Representação Nacional > Holanda,ev_0935
+ent_hendrikwiegersma,Hendrik Wiegersma,Holanda (Nacionalidade),Representação Nacional > Holanda,ev_0935
+ent_charleseyck,Charles Eyck,Holanda (Nacionalidade),Representação Nacional > Holanda,ev_0935
+ent_virgilioguidi,Virgilio Guidi,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_totiscialoja,Toti Scialoja,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_tonozancanaro,Tono Zancanaro,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_pietromartina,Pietro Martina,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_osvaldolicini,Osvaldo Licini,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_luigibartolini,Luigi Bartolini,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_giuseppeajmone,Giuseppe Ajmone,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_giuseppeajmone,Giuseppe Ajmone,Itália (Nacionalidade),Representação Nacional > Itália,ev_1022
+ent_giacomomanzu,Giacomo Manzú,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_francescomenzio,Francesco Menzio,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_filippodepisis,Filippo De Pisis,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_faustopirandello,Fausto Pirandello,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_faustopirandello,Fausto Pirandello,Itália (Nacionalidade),Representação Nacional > Itália,ev_0997
+ent_domenicocantatore,Domenico Cantatore,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_corradocagli,Corrado Cagli,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_corradocagli,Corrado Cagli,Itália (Nacionalidade),Representação Nacional > Itália,ev_1022
+ent_bertolardera,Berto Lardera,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_arnoldociarrocchi,Arnoldo Ciarrocchi,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_antoniocorpora,Antonio Corpora,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_albertomagnelli,Alberto Magnelli,Itália (Nacionalidade),Representação Nacional > Itália,ev_0935
+ent_unichihiratsuka,Unichi Hiratsuka,Japão (Nacionalidade),Representação Nacional > Japão,ev_0935
+ent_unichihiratsuka,Unichi Hiratsuka,Japão (Nacionalidade),Representação Nacional > Japão,ev_0954
+ent_sempanmaekawa,Sempan Maekawa,Japão (Nacionalidade),Representação Nacional > Japão,ev_0935
+ent_sempanmaekawa,Sempan Maekawa,Japão (Nacionalidade),Representação Nacional > Japão,ev_0954
+ent_ichirofukuzawa,Ichiro Fukuzawa,Japão (Nacionalidade),Representação Nacional > Japão,ev_0935
+ent_ichirofukuzawa,Ichiro Fukuzawa,Japão (Nacionalidade),Representação Nacional > Japão,ev_0954
+ent_chouota,Chou Ota,Japão (Nacionalidade),Representação Nacional > Japão,ev_0935
+ent_zenzaburokojima,Zenzaburo Kojima,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_yoshitatsuyanagiwara,Yoshitatsu Yanagiwara,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_yoshiomori,Yoshio Mori,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_yoshinorikinoshita,Yoshinori Kinoshita,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_yoshikinouchi,Yoshi Kinouchi,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_yataronoguchi,Yataro Noguchi,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_toyoshirofukuda,Toyoshiro Fukuda,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_toyoichiyamamoto,Toyoichi Yamamoto,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_tatsushirotakabatake,Tatsushiro Takabatake,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_tatsuotakayama,Tatsuo Takayama,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_takezoshinkai,Takezo Shinkai,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_takashishimizu,Takashi Shimizu,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_shunkomochizuki,Shunko Mochizuki,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_shintarosuzuki,Shintaro Suzuki,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_shinsuiito,Shinsui Ito,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_shigeruhatsuyama,Shigeru Hatsuyama,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_setsukomigishi,Setsuko Migishi,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_senjingokura,Senjin Gokura,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_saburomiyamoto,Saburo Miyamoto,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_nobuyaabe,Nobuya Abe,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_naondonakamura,Naondo Nakamura,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_kyujinyamamoto,Kyujin Yamamoto,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_kohyoezaki,Kohyo Ezaki,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_kichijiroshimojyo,Kichijiro Shimojyo,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_kibokodama,Kibo Kodama,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_kenjiyoshioka,Kenji Yoshioka,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_kenjishimomura,Kenji Shimomura,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_kazuokikuchi,Kazuo Kikuchi,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_kazuhohieda,Kazuho Hieda,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_kaiihigashiyama,Kaii Higashiyama,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_iwamifuruzawa,Iwami Furuzawa,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_hidekawanishi,Hide Kawanishi,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_henriballache,Henri Ballache,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_hakuomori,Hakuo Mori,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_eizokato,Eizo Kato,Japão (Nacionalidade),Representação Nacional > Japão ,ev_0935
+ent_naoiden-festdeci,Não identificados - Festival de Cinema,Não Especificado (Nacionalidade),Representação Nacional > Não Especificado ,ev_0935
+ent_juanmanuelcedeno,Juan Manuel Cedeño,Panamá (Nacionalidade),Representação Nacional > Panamá,ev_0935
+ent_alfredosinclair,Alfredo Sinclair,Panamá (Nacionalidade),Representação Nacional > Panamá,ev_0935
+ent_silvalino,Silva Lino,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_mariamadalenacabral,Maria Madalena Cabral,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_mariaamelicarvadasil,Maria Amélia Carvalheira da Silva,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_lucianosantos,Luciano Santos,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_linoantonio,Lino Antônio,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_joaquimlopes,Joaquim Lopes,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_joaomartinsdacosta,João Martins da Costa,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_joaofragoso,João Fragoso,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_joaodesousaaraujo,João de Sousa Araujo,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_guilhermefilipe,Guilherme Filipe,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_guilhermecasquilho,Guilherme Casquilho,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_franciscomaya,Francisco Maya,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_dulcedagro,Dulce D'agro,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_delfimmaya,Delfim Maya,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_celestinoalves,Celestino Alves,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_carloscarneiro,Carlos Carneiro,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_candidocostapinto,Cândido Costa Pinto,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_ayresdecarvalho,Ayres de Carvalho,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_antoniosoares,Antônio Soares,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_antonioduarte,Antonio Duarte,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_antonioayres,Antonio Ayres,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_alvarodebree,Álvaro de Brée,Portugal (Nacionalidade),Representação Nacional > Portugal,ev_0935
+ent_robertmacbryde,Robert Macbryde,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_robertcolquhoun,Robert Colquhoun,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_michaelrothenstein,Michael Rothenstein,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_michaelayrton,Michael Ayrton,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_matthewsmith,Matthew Smith,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_laurencestephenlow,Laurence Stephen Lowry,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_kennethmartin,Kenneth Martin,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_johnwells,John Wells,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_johntunnard,John Tunnard,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_johncraxton,John Craxton,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_ivonhitchens,Ivon Hitchens,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_haroldgilman,Harold Gilman,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_edwardburra,Edward Burra,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_duncangrant,Duncan Grant,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_deniswirth-miller,Denis Wirth-Miller,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_bryanwynter,Bryan Wynter,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_brianasquith,Brian Asquith,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_bennicholson,Ben Nicholson,Reino Unido (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_charlesginner,Charles Ginner,França (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_walterrichardsic,Walter Richard Sickert,Alemanha (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_lucienfreud,Lucian Freud,Alemanha (Nacionalidade),Representação Nacional > Reino Unido,ev_0935
+ent_marcialemiliosjavale,Marcial Emílio Schoborgh Javalera,República Dominicana (Nacionalidade),Representação Nacional > República Dominicana,ev_0935
+ent_elsadivannasarubbi,Elsa di Vanna Sarubbi,República Dominicana (Nacionalidade),Representação Nacional > República Dominicana,ev_0935
+ent_celestewoosygil,Celeste Woos Y Gil,República Dominicana (Nacionalidade),Representação Nacional > República Dominicana,ev_0935
+ent_andremounta,Andre Mounta,República Dominicana (Nacionalidade),Representação Nacional > República Dominicana,ev_0935
+ent_walterbodmer,Walter Bodmer,Suíça (Nacionalidade),Representação Nacional > Suíça,ev_0935
+ent_ottotschumi,Otto Tschumi,Suíça (Nacionalidade),Representação Nacional > Suíça,ev_0935
+ent_oskardalvit,Oskar Dalvit,Suíça (Nacionalidade),Representação Nacional > Suíça,ev_0935
+ent_leoleuppi,Leo Leuppi,Suíça (Nacionalidade),Representação Nacional > Suíça,ev_0935
+ent_georgesfroidevaux,Georges Froidevaux,Suíça (Nacionalidade),Representação Nacional > Suíça,ev_0935
+ent_claudeloewer,Claude Loewer,Suíça (Nacionalidade),Representação Nacional > Suíça,ev_0935
+ent_antoniopena,Antonio Pena,Uruguai (Nacionalidade),Representação Nacional > Uruguai,ev_0935
+ent_bertilgado,Bertil Gadö,Suécia (Nacionalidade),Selecionado,ev_0935
+ent_shigetotanaka,Shigeto Tanaka,Japão (Nacionalidade),Selecionado,ev_0935
+ent_caetanofraccaroli,Caetano Fraccaroli,Itália (Nacionalidade),Selecionado,ev_0935
+ent_bassanovaccarini,Bassano Vaccarini,Itália (Nacionalidade),Selecionado,ev_0935
+ent_alfredovolpi,Alfredo Volpi,Itália (Nacionalidade),Selecionado,ev_0935
+ent_alfiocastelli,Alfio Castelli,Itália (Nacionalidade),Selecionado,ev_0935
+ent_danieldendikkenboer,Daniel den Dikkenboer,Holanda (Nacionalidade),Selecionado,ev_0935
+ent_minnacitron,Minna Citron,Estados Unidos (Nacionalidade),Selecionado,ev_0935
+ent_augustotorres,Augusto Torres,Espanha (Nacionalidade),Selecionado,ev_0935
+ent_augustzamoyski,August Zamoyski,Brasil (Nacionalidade)Polônia (Nacionalidade),Selecionado,ev_0935
+ent_reneelefevre,Renée Lefèvre,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_ramiromartins,Ramiro Martins,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_pollymcdonell,Polly McDonell,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_miltongoldring,Milton Goldring,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_durvalalvarezserra,Durval Alvares Serra,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_djaniragomespereira,Djanira Gomes Pereira,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_bellapaesleme,Bella Paes Leme,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_aureliarubiao,Aurélia Rubião,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_arthurluizpiza,Arthur Luiz Piza,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_arnaldopedrosodh,Arnaldo Pedroso D'Horta,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_armandoballoni,Armando Balloni,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_ariadnabamerica,Ariadna B. Americano Freire,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_antoniomaluf,Antonio Maluf,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_antoniogomide,Antonio Gomide,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_antoniobandeira,Antonio Bandeira,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_anitamalfatti,Anita Malfatti,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_anisiomedeiros,Anísio Medeiros,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_anatolwladyslaw,Anatol Wladyslaw,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_almirdasilvama,Almir Mavignier,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_alicesoares,Alice Soares,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_alicebrill,Alice Brill,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_aldobonadei,Aldo Bonadei,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_aldemirmartins,Aldemir Martins,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_albertoguignard,Alberto Guignard,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_ahmesmachado,Ahmés,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_adrianajanacopulos,Adriana Janacópulos,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_adolfopastor,Adolfo Pastor,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_adomalagoli,Ado Malagoli,Brasil (Nacionalidade),Selecionado,ev_0935
+ent_affonsoeduardoreidy,Affonso Eduardo Reidy,Brasil (Nacionalidade),Selecionado ,ev_0935
+ent_takeshisuzuki,Takeshi Suzuki,Japão (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_shigetotanaka,Shigeto Tanaka,Japão (Nacionalidade),"Selecionado 
+  ",ev_0954
+ent_roccoborella,Rocco Borella,Itália (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_marcocostantini,Marco Costantini,Itália (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_francosacchi,Franco Sacchi,Itália (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_danieldendikkenboer,Daniel den Dikkenboer,Holanda (Nacionalidade),"Selecionado 
+  ",ev_0954
+ent_minnacitron,Minna Citron,Estados Unidos (Nacionalidade),"Selecionado 
+  ",ev_0954
+ent_margaretspence,Margaret Spence,Estados Unidos (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_fredrickaroly,Fredric Karoly,Estados Unidos (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_zoiglavanis,Zoi Glavanis,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_yllenkerr,Yllen Keer,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_wilsonvitaleandrade,Wilson Vitale Andrade Silva,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_washflorricadealjr,Washington Floriano Ricardo de Albuquerque Jr.,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_waldemarbelisariop,Waldemar Belisario Pellizzari,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_vicentemecozzi,Vicente Mecozzi,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_vicentedigrado,Vicente Di Grado,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_takeshimatsuyama,Takeshi Matsuyama,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_sylviopinto,Sylvio Pinto,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_sylvioaragao,Sylvio Aragão,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_sidneysfonseca,Sidney S. Fonseca,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_ruialvescampello,Rui Alves Campello,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_rubengary,Ruben Gary,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_rosaeugeniavicuna,Rosa Eugenia Vicuña,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_robertopintomonte,Roberto Pinto Monteiro,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_reneelefevre,Renée Lefèvre,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0954
+ent_renatosottomayor,Renato Sottomayor,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_reinaldomanzke,Reinaldo Manzke,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_ramiromartins,Ramiro Martins,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0954
+ent_racheldecastroc,Rachel de Castro Correia,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_pollymcdonell,Polly McDonell,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0954
+ent_paulgarfunkel,Paul Garfunkel,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_orlandodetoledol,Orlando de Toledo Lara,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_ninanegri,Nina Negri,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_niloprevidi,Nilo Previdi,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_nelsasolanogorga,Nelsa Solano Gorga,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_miltongoldring,Milton Goldring,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0954
+ent_michelhenriburton,Michel Henri Burton,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_maxgrossmann,Max Grossmann,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_massaookinaka,Massao Okinaka,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_luigicillo,Luigi Cillo,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_luciasuane,Lucia Suané,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_luciadebourbon,"Lucia di Borbone Sicilie, Duquesa D'Ancona",Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_lisettealmeida,Lisette Almeida,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_lilyanschwartzkopf,Lilyan Schwartzkopf,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_leonzack,Léon Zack,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_ladislawvictorsoos,Ladislaw Victor Soos,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_lrcarvalhofranco,L. R. Carvalho Franco,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_juanrimsa,Juan Rimsa,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_joselanzaro,José Lanzaro,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_josealbertosai,José Alberto Saint-Romain,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_jorgemori,Jorge Mori,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_joaoviggiano,João Viggiano,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_jerrydavis,Jerry Davis,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_jeannecoppel,Jeanne Coppel,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_jonandonivergare,Jan Andoni Vergareche Maitrejean,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_jacyracarvalho,Jacyra Carvalho,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_izraelszajnbrum,Izrael Szajnbrum,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_italozetti,Italo Zetti,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_isapiccinini,Isa Piccinini,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_iristhompsodecarva,Iris Thompson de Carvalho,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_humbertocozzo,Humberto Cozzo,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_hildacampofiorito,Hilda Campofiorito,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_higakihajime,Higaki Hajime,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_hideomiohara,Hideomi Ohara,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_henkdevos,Henk de Vos,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_heloisafeneloncosta,Heloisa Fenelon Costa,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_haydeasantiago,Haydéa Santiago,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_gusruiter,Gus Ruiter,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_gusromein,Gus Romein,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_giulianapedrazza,Giuliana Pedrazza,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_giandomenidemarchis,Giandomenico de Marchis,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_germanomariutti,Germano Mariutti,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_georgenasturel,George Nasturel,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_frantareyl,Franta Reyl,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_francedupaty,France Dupaty,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_fortunacamaradeolive,Fortunato Câmara de Oliveira,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_fernandoclovispere,Fernando P.,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_fernandofam,Fernando Fam,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_erasmegrappelly,Erasme Grappelly,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_emiliocordet,Emilio Cordet,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_antonluisdeanhai,Antonio Luis de Anhaia Mello,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_adolforubiomorales,Adolfo Rubio Morales,Brasil (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_rogervanrogger,Roger van Rogger,Bélgica (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_karolaszilardgabor,Karola Szillard Gabor,Áustria (Nacionalidade),"Selecionado 
+  ",ev_0935
+ent_stanislasfumet,Stanislas Fumet,França (Nacionalidade),,ev_0935
+ent_georgesvanparys,Georges Van Parys,França (Nacionalidade),,ev_0935
+ent_andrechamson,André Chamson,França (Nacionalidade),,ev_0935
+ent_saci,Saci,Brasil (Nacionalidade),,ev_0935
+ent_jorgeferreira,Jorge Ferreira,Brasil (Nacionalidade),,ev_0935
+ent_exi,Exi,Brasil (Nacionalidade),,ev_0935
+ent_carlosjjsrna,Carlos J. J. Srna,Brasil (Nacionalidade),,ev_0935
+ent_araguaia,Araguaia,Brasil (Nacionalidade),,ev_0935
+ent_alvarovitalbrazil,Álvaro Vital Brazil,Brasil (Nacionalidade),,ev_0935
+ent_miraschendel,Mira Schendel,Suíça,Selecionado ,ev_0935
+ent_miraschendel,Mira Schendel,Suíça, Selecionado ,ev_0983
+ent_miraschendel,Mira Schendel,Suíça,Selecionado,ev_1127
+ent_miraschendel,Mira Schendel,Suíça,Selecionado, ev_1175
+ent_miraschendel,Mira Schendel,Suíça,Selecionado, ev_1226
+ent_miraschendel,Mira Schendel,Suíça,Selecionado,ev_1259
+ent_miraschendel,Mira Schendel,Suíça,Convidado,ev_1522
+ent_miraschendel,Mira Schendel,Suíça,Selecionado,ev_1645
+ent_miraschendel,Mira Schendel,Suíça,Homenageado,ev_1649
+ent_miraschendel,Mira Schendel,Suíça,Selecionado,ev_1746
+ent_miraschendel,Mira Schendel,Suíça,Homenageado,ev_1749
+ent_miraschendel,Mira Schendel,Suíça,Homenageado,ev_1877
+ent_miraschendel,Mira Schendel,Suíça,Convidado,ev_2230
+ent_miraschendel,Mira Schendel,Suíça,Selecionado, ev_1175
+ent_miraschendel,Mira Schendel,Suíça,Convidado  ,ev_2252
