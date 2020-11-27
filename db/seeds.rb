@@ -27,7 +27,7 @@ CSV.foreach(events, csv_options) do |row|
   Event.create!(event)
 end
 
-artists = Rails.root.join('lib', 'seeds', 'Artists.csv')
+artists = Rails.root.join('lib', 'seeds', 'Artists2.csv')
 csv_options = { headers: :first_row }
 CSV.foreach(artists, csv_options) do |row|
   # Here, row is an array of columns
@@ -42,7 +42,7 @@ CSV.foreach(artists, csv_options) do |row|
   Artist.create!(artist)
 end
 
-works = Rails.root.join('lib', 'seeds', 'Works.csv')
+works = Rails.root.join('lib', 'seeds', 'Works2.csv')
 csv_options = { headers: :first_row }
 CSV.foreach(works, csv_options) do |row|
   # Here, row is an array of columns
