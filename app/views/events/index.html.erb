@@ -1,18 +1,15 @@
-<%= link_to "Back", pages_map_path, class: "back-link"%>
-<div class="row justify-content-center ">
-  <h3>Events</h3>
-</div>
-<div class="row justify-content-center ">
-<table>
-  <tbody>
+<div id="events">
+  <h1>Eventos</h1>
+  <a href="/"> Voltar </a>
+  <main>
     <% @events.each do |event| %>
-      <tr>
-        <td><%= link_to event.edition, event_path(event) %></td>
-        <td><%= event.place %></td>
-        <td><%= event.inicial_date %></td>
-        <td><%= event.final_date %></td>
-      </tr>
+      <div class="listEvents">
+          <div><%= link_to event.edition, event_path(event) %></div>
+          <span>-</span>
+          <div><%= event.place %></div>
+          <div><%= event.inicial_date %></div>
+          <div><%= event.final_date %></div>
+      </div>
     <% end %>
-  </tbody>
-</table>
+  </main>
 </div>

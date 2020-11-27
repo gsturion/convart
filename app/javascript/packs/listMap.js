@@ -1,7 +1,7 @@
 const bienais = [
   {
     name: "Biennale de Venezia - Veneza, Itália",
-    coordinates: [12.3360451,45.4288342],
+    coordinates: [12.3360451, 45.4288342],
   },
   {
     name: "Carnegie International - Filadélfia, EUA",
@@ -78,7 +78,7 @@ const bienais = [
   },
   {
     name: "Bienal del Fin del Mundo - Ushuaia, Argentina",
-    coordinates: [-6.302505, -54.807346],
+    coordinates: [-54.807346, -6.302505],
   },
   {
     name: "Gwangju Biennale - Gwangju, Coréia do Sul",
@@ -86,7 +86,7 @@ const bienais = [
   },
   {
     name: "Bienal de Curitiba - Curitiba, Brasil",
-    coordinates: [-4.267013, -25.409845],
+    coordinates: [-25.409845, -4.267013],
   },
   { name: "Biennale de Lyon - Lyon, França", coordinates: [4.79904, 45.75845] },
   {
@@ -139,6 +139,8 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 }).addTo(map);
 
 bienais.forEach((b) => {
-  L.marker([b.coordinates[1], b.coordinates[0]]).addTo(map).bindPopup(b.name).openPopup();
-  return b;
+  L.marker([b.coordinates[1], b.coordinates[0]])
+    .addTo(map)
+    .bindPopup(`<p>Ir para <a href='events/1'> ${b.name} </a> </p>`)
+    .bindTooltip(b.name);
 });
