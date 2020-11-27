@@ -4,18 +4,19 @@ class ArtistsController < ApplicationController
   before_action :set_event, only: [ :show, :index ]
   
   def index
-    @artists = Artist.all
+    @artists = @event.artists
+    #@artists = Artist.joins(:event).where(event: @event)
     #Artist.joins(:works).where(event: @event)
     #@artists = Artist.joins(:work).where(event: @event)
     #Artist.joins(:event).where(events: @event)
     #Artist.where(event: @event)
-    #Artist.all.joins(:event).where('events.id = ?', params[:query])
+    #Artist.joins(:event).where('events.id = ?', params[:query])
   end
   
   def show
-    @work = Work.where(event: @event)
+    @work = @event.works
   end
-  
+    
   private
   
   def set_artist
