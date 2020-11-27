@@ -3,7 +3,7 @@
   <a href="/"> Voltar </a>
   <main>
     <% @events.each do |event| %>
-      <div class="listEvents">
+      <div id="listEvents" class="listEvents">
           <div><%= link_to event.edition, event_path(event) %></div>
           <span>-</span>
           <div><%= event.place %></div>
