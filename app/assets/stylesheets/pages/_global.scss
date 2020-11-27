@@ -25,37 +25,3 @@ a {
 		border-bottom: .1em solid;
 	}
 }
-
-header {
-	display: flex;
-	align-items: center;
-
-	background-color: rgba(0,0,0,.3);
-
-	width: 100%;
-
-	padding: 1em 2em;
-
-	border-bottom-right-radius: 1em;
-	border-bottom-left-radius: 1em;
-}
-
-header img {
-	width: 10em
-}
-
-header nav {
-	padding: .8em 0;
-
-	width: 42%;
-}
-
-header nav > a {
-	margin: 0 1.5em;
-}
-
-header nav > a:hover {
-  border-bottom: solid black;
-
-  color: white;
-}

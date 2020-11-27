@@ -77,7 +77,24 @@
 
 	color: white;
 
-	li {
+	h3 {margin: .15em 0}
+	h2 {
 		margin: .5em 0;
 	}
+
+	main {
+		display: flex;
+		justify-content: flex-start;
+		flex-direction: column;
+
+		width: 20%;
+	}
+
+	ul {
+		li {
+			margin: .5em 2em;
+		}
+
+	}
+
 }

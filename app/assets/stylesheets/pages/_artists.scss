@@ -11,6 +11,9 @@
 	flex-direction: column;
 
 	color: white;
+
+	a,
+	li { margin: .5em 0 }
 }
 
 #ShowArtists {
@@ -26,4 +29,10 @@
 	flex-direction: column;
 
 	color: white;
+
+	a,
+	h3,
+	p {
+		margin: .5em 0;
+	}
 }

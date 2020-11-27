@@ -1,32 +1,32 @@
 <div id="showEvents">
 	<%= link_to "Voltar", events_path%>
 
+	<h2><%= @event.edition %></h2>
 
-	<h4><%= @event.edition %></h4>
-
-	<h5>Artists: </h5>
-	<h5>Works: </h5>
-	<h5>Gender: </h5>
-	<h5>Ethnicity: </h5>
-	<ul>
-		<h5>Delegations: 19</h5>
-
-		<li>Belgium</li>
-		<li><%= link_to "Brazil", event_artists_path(@event) %></li>
-		<li>Bolivia</li>
-		<li>Canada</li>
-		<li>Chile</li>
-		<li>Cuba</li>
-		<li>France</li>
-		<li>Haiti</li>
-		<li>Italy</li>
-		<li>Japan</li>
-		<li>Netherlands</li>
-		<li>Switzerland</li>
-		<li>United Kingdom</li>
-		<li>United States</li>
-		<li>Uruguay</li>
-		<li>Argentina</li>
-	</ul>
+	<main>
+		<h3>Artists: </h3>
+		<h3>Works: </h3>
+		<h3>Gender: </h3>
+		<h3>Ethnicity: </h3>
+		<h3>Delegations: 19</h3>
+		<ul>
+			<li>Belgium</li>
+			<li><%= link_to "Brazil", event_artists_path(@event) %></li>
+			<li>Bolivia</li>
+			<li>Canada</li>
+			<li>Chile</li>
+			<li>Cuba</li>
+			<li>France</li>
+			<li>Haiti</li>
+			<li>Italy</li>
+			<li>Japan</li>
+			<li>Netherlands</li>
+			<li>Switzerland</li>
+			<li>United Kingdom</li>
+			<li>United States</li>
+			<li>Uruguay</li>
+			<li>Argentina</li>
+		</ul>
+	</main>
 
 </div>
