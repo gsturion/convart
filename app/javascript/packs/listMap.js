@@ -26,7 +26,7 @@ const bienais = [
   },
   {
     name: "Biennale de la Méditerranée - Alexandria, Egito",
-    coordinates: [-92.4449, 31.3112],
+    coordinates: [31.2243285, 29.8147988],
   },
   {
     name: "Biennale de Paris - Paris, França",
@@ -84,10 +84,6 @@ const bienais = [
     name: "Gwangju Biennale - Gwangju, Coréia do Sul",
     coordinates: [126.889107, 35.182315],
   },
-  {
-    name: "Bienal de Curitiba - Curitiba, Brasil",
-    coordinates: [-25.409845, -4.267013],
-  },
   { name: "Biennale de Lyon - Lyon, França", coordinates: [4.79904, 45.75845] },
   {
     name: "Liverpool Biennial - Liverpool, Reino Unido:",
@@ -106,7 +102,7 @@ const bienais = [
     coordinates: [-7.998619, 31.625658],
   },
   {
-    name: "Bienal de Arte de Cerveira - Viana do Castelo, Portugal:",
+    name: "Bienal de Arte de Cerveira - Viana do Castelo, Portugal",
     coordinates: [-8.742745, 41.945885],
   },
   {
@@ -118,8 +114,8 @@ const bienais = [
     coordinates: [76.245601, 9.968549],
   },
   {
-    name: "Prospect - Nova Orleans, EUA:",
-    coordinates: [-75.6540362, 45.3854224],
+    name: "Prospect - Nova Orleans, EUA",
+    coordinates: [30.0332195, -90.0226506],
   },
   {
     name: "Sharjah Biennial - Sharjah, Emirados Árabes Unidos",

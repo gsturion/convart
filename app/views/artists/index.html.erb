@@ -1,18 +1,14 @@
-<%= link_to "Back", events_path, class: "back-link"%>
-<div class="row justify-content-center ">
-  <h3>Artists</h3>
-</div>
-
-<p><%= @event.edition %></p>
-
-<table>
-  <tbody>
+<div id="artists">
+  <h1>Artists</h1>
+  <%= link_to "Voltar", events_path%>
+  <p><%= @event.edition %></p>
+  <ul>
     <% @artists.each do |artist| %>
-      <tr>
-        <td><%= artist.name %></td>
-        <td><%= artist.nationality %></td>
-        <td><%= artist.delegation %></td>
-      </tr>
+      <li>
+        <span> <a href="artists/1"> <%= artist.name %> </a> </span>
+        <span><%= artist.nationality %></span>
+        <span><%= artist.delegation %></span>
+      </li>
     <% end %>
-  </tbody>
-</table>
+  </ul>
+</div>
