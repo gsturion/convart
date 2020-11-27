@@ -1,36 +1,34 @@
+<div id="works">
 <%= link_to "Voltar", event_artists_path, class: "back-link"%>
-
+<br>
 
 <div class="mx-auto" style="width: 900px;">
   <div class="d-flex justify-content-center">
-    <h4><%= @artist.name %></h4>
+    <strong><%= @artist.name %> na <%= @event.edition %></strong>
   </div>
 </div>
 
-<p>Nacionalidade, year of birth / Country of residence, year of death</p>
-<p>Biografia: link Encyclopedia ITAU</p>
-<p>Obras expostas nessa edição</p>
-<p><%= @event.edition %></p>
+<br>
+<p>Nacionalidade: <%= @artist.nationality %></p>
+<br>
+<p>Obras expostas nessa edição:</p>
 <div class="mx-auto" style="width: 900px;">
   <div class="d-flex justify-content-center">
-  <table>
-    <tbody>  
+  
     <% @work.each do |work| %>
-    <tr>
-      <td><%= work.title %></td>
-      <td><%= work.date %></td>
-      <td><%= work.size %></td>
-      <td><%= work.support %></td>
-      <td><%= work.technique %></td>
+     <p>Título: <%= work.title %></p>
+      <p>Data: <%= work.date %></p>
+      <p>Tamanho: <%= work.size %></p>
+      <p>Suporte: <%= work.support %></p>
+      <p>Técnica <%= work.technique %></p>
       <% end %>
-    </tr>
-    </tbody>
-  </table>
+
   </div>
 </div>
 
+<br>
 <p>Circulação</p>
 
-
+</div>
 
 
