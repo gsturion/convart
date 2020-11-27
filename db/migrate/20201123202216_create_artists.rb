@@ -5,7 +5,7 @@ class CreateArtists < ActiveRecord::Migration[6.0]
       t.string :name
       t.string :nationality
       t.string :delegation
-
+      
       t.timestamps
     end
   end

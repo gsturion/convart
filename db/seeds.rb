@@ -36,7 +36,7 @@ CSV.foreach(artists, csv_options) do |row|
     name: row['Entity names'],
     nationality: row['nacionalidade'],
     delegation: row['participação'],
-    #idno_evento: row['idno-evento']
+    #event_id: row['idno-evento']
   }
   print artist
   Artist.create!(artist)
