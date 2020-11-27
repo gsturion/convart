@@ -1,19 +1,18 @@
 <div id="ShowArtists">
   <%= link_to "Voltar", event_artists_path %>
 
-  <h3><%= @artist.name %></h3>
+  <h3><%= @artist.name %> na <%= @event.edition %></h3>
 
-  <p>Nationality, year of birth / Country of residence, year of death</p>
-  <p>Biography: link Encyclopedia ITAU</p>
-  <p>List of works in that edition</p>
-  <p><%= @event.edition %></p>
+  <p><%= @artist.nationality %></p>
+  
+  <p>Lista de obras na edição</p>
     <ul>
       <% @work.each do |work| %>
       <li>
-        <span><%= work.title %></span>
-        <span><%= work.date %></span>
-        <span><%= work.size %></span>
-        <span><%= work.support %></span>
+        <span><%= work.title %> |</span>
+        <span><%= work.date %> |</span>
+        <span><%= work.size %> |</span>
+        <span><%= work.support %> |</span>
         <span><%= work.technique %></span>
         <% end %>
       </li>
