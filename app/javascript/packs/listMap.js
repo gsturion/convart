@@ -137,6 +137,6 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 bienais.forEach((b) => {
   L.marker([b.coordinates[1], b.coordinates[0]])
     .addTo(map)
-    .bindPopup(`<p>Ir para <a href='events/1'> ${b.name} </a> </p>`)
+    .bindPopup(`<p>Ir para <a href='events'> ${b.name} </a> </p>`)
     .bindTooltip(b.name);
 });
